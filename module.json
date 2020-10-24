@@ -5,9 +5,9 @@
   "version": "0.0.1",
   "author": "The League of Extraordinary FoundryVTT Developers",
   "esmodules": ["main.js"],
-  "url": "",
-  "manifest": "",
-  "download": "",
+  "url": "https://github.com/League-of-Foundry-Developers/Hotfixes-for-Critically-Broken-Modules",
+  "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/Hotfixes-for-Critically-Broken-Modules/main/module.json",
+  "download": "https://raw.githubusercontent.com/League-of-Foundry-Developers/Hotfixes-for-Critically-Broken-Modules/releases/download/0.0.1/0day-fixes.zip",
   "minimumCoreVersion": "0.7.0",
   "compatibleCoreVersion": "0.7.5"
 }
