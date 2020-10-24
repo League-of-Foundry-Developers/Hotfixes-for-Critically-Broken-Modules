@@ -1,0 +1,13 @@
+{
+  "name": "0day-fixes",
+  "title": "Hotfixes for Critically Broken Modules",
+  "description": "Fixes for modules that are broken in the current foundry version",
+  "version": "0.0.1",
+  "author": "The League of Extraordinary FoundryVTT Developers",
+  "esmodules": ["main.js"],
+  "url": "",
+  "manifest": "",
+  "download": "",
+  "minimumCoreVersion": "0.7.0",
+  "compatibleCoreVersion": "0.7.5"
+}
