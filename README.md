@@ -2,7 +2,7 @@
 
 ## Installation
 
-To install, import this [Manifest](https://raw.githubusercontent.com/League-of-Foundry-Developers/Hotfixes-for-Critically-Broken-Modules/main/module.json) into your module browser.
+To install, import this [Manifest](https://github.com/League-of-Foundry-Developers/Hotfixes-for-Critically-Broken-Modules/releases/download/latest/module.json) into your module browser.
 
 ## Current Fixes
 
