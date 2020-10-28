@@ -10,4 +10,4 @@ To install, import this [Manifest](https://github.com/League-of-Foundry-Develope
 
 ## Changelog
 
-Check the [Changelog](https://github.com/League-of-Foundry-Developers/Hotfixes-for-Critically-Broken-Modules/blob/main/CHANGELOG.md)
+Check the [Changelog](https://github.com/League-of-Foundry-Developers/Hotfixes-for-Critically-Broken-Modules/blob/master/CHANGELOG.md)
