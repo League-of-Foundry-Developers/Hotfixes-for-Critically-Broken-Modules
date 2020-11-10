@@ -7,6 +7,7 @@ To install, import this [Manifest](https://github.com/League-of-Foundry-Develope
 ## Current Fixes
 
 * Settings Extender breaking the config menu.
+* Forien Unidentified Items calling some hooks twice, which can cause a breaking loop.
 
 ## Changelog
 
