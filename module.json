@@ -2,12 +2,12 @@
   "name": "0day-fixes",
   "title": "Hotfixes for Critically Broken Modules",
   "description": "Fixes for modules that are broken in the current foundry version",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": "The League of Extraordinary FoundryVTT Developers",
   "esmodules": ["main.js"],
   "url": "https://github.com/League-of-Foundry-Developers/Hotfixes-for-Critically-Broken-Modules",
   "manifest": "https://raw.githubusercontent.com/League-of-Foundry-Developers/Hotfixes-for-Critically-Broken-Modules/master/module.json",
-  "download": "https://github.com/League-of-Foundry-Developers/Hotfixes-for-Critically-Broken-Modules/releases/download/0.0.2/0day-fixes.zip",
+  "download": "https://github.com/League-of-Foundry-Developers/Hotfixes-for-Critically-Broken-Modules/releases/download/0.0.3/0day-fixes.zip",
   "minimumCoreVersion": "0.7.0",
-  "compatibleCoreVersion": "0.7.5"
+  "compatibleCoreVersion": "0.7.7"
 }

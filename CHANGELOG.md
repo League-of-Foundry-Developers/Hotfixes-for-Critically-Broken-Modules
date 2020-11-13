@@ -1,5 +1,9 @@
 # Patch Notes
 
+## Version 0.0.3
+
+* Fix Forien Unidentified Items calling hooks twice.
+
 ## Version 0.0.2
 
 * Fix manifest
