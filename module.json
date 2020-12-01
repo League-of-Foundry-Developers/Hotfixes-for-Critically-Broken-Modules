@@ -2,7 +2,7 @@
   "name": "0day-fixes",
   "title": "Hotfixes for Critically Broken Modules",
   "description": "Fixes for modules that are broken in the current foundry version",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "author": "The League of Extraordinary FoundryVTT Developers",
   "esmodules": ["main.js"],
   "url": "https://github.com/League-of-Foundry-Developers/Hotfixes-for-Critically-Broken-Modules",
