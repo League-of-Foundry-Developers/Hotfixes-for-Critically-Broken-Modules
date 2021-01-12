@@ -1,4 +1,5 @@
 # Hotfixes for Critically Broken Modules
+A collection of fixes for modules that are critically broken in the current foundry version. These fixes will be removed as the original package resolves their fixes. Even if there are currently no fixes in this package, it is recommended you leave it installed so as to get new fixes in a timely manner
 
 ## Installation
 
